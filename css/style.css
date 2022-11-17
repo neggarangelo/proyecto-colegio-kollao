@@ -1,0 +1,19 @@
+#colegioKollaologo{
+    max-width:50% ;
+}
+#searchInicio{
+    max-width:5%   ;
+}
+
+.botonesInicio{
+    background-color: #5BAAAF ;
+    margin: 5px;
+}
+
+#contenedorFooter{
+    margin:0 auto;
+    background-size: cover;
+    background-color:grey;
+    background-image: url("../img/inicio/footer.png");
+
+}
